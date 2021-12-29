@@ -15,12 +15,10 @@
     justify-content: center;
     align-items: center;
 }
-
 .marco{
     width: 100%;
     height: var(--height);
     padding: 10% 0;
-
     background: #00B4DB;
     display: flex;
     flex-flow: column nowrap;
@@ -28,16 +26,13 @@
     align-items: center;
     color: #fff;
     border-radius: 20px;
-    
 }
-
 .pantalla_contenedor{
     width:80%;
     height: 15%;
     background: #0007;
     margin-bottom: 25px;
 }
-
 .pantalla{
     width:100%;
     height: 100%;
@@ -75,8 +70,6 @@
             padding: 0;
             margin: 0;
         }
-        
-
 .numeros{
     width:80%;
     height: 80%;
